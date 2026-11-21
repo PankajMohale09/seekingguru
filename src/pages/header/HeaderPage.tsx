@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import "./HeaderStyle.css";
 
 function HeaderPage() {
@@ -40,7 +40,7 @@ function HeaderPage() {
             </a>
           </nav>
         </div>
-        <div class="nav-spacer"></div>
+        <div className="nav-spacer"></div>
         <div className="nav-role">
           <span className="seg-label">Preview as</span>
           <div className="seg" role="group" aria-label="Preview as">
