@@ -1,0 +1,27 @@
+/* Header Style */
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: none;
+    border: 0;
+    padding: 0;
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 20px;
+    color: var(--ink);
+    letter-spacing: -.02em;
+}
+
+.main-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    height: 66px;
+}
+
+.nav-role {
+    display:flex;
+    align-items:center;
+    gap:8px;
+}
